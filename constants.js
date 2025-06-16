@@ -1,12 +1,12 @@
 export const METADATA = {
-  author: "Shubh Porwal",
-  title: "Portfolio | Shubh Porwal",
+  author: "Manish Kumar",
+  title: "Portfolio | Manish Kumar",
   description:
     "Shubh Porwal is a passionate Frontend Engineer, dedicated to crafting aesthetic and modern apps that captivate and engage users.",
   siteUrl: "https://www.shubhporwal.me/",
   twitterHandle: "@shubhporwal24",
   keywords: [
-    "Shubh Porwal",
+    "Manish Kumar",
     "Frontend Engineer",
     "React Native Developer",
     "Software Engineer",
